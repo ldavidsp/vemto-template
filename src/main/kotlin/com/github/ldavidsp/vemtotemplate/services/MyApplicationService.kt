@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ldavidsp.vemtotemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ldavidsp.vemtotemplate.MyBundle
 
 class MyApplicationService {
 
